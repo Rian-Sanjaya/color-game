@@ -1,4 +1,4 @@
-Previe link:
-https://htmlpreview.github.io/?https://github.com/Rian-Sanjaya/color-game/blob/master/colorGame.html
+Preview link:
+https://rawgit.com/Rian-Sanjaya/color-game/master/colorGame.html
 
 A project on web developer bootcamp online course, using vanilla javascript.
